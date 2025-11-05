@@ -28,7 +28,7 @@
 
 <p align="left">
   <a href="mailto:zhuoyanzhe1@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL%20Me%20⚡-00FFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=141414" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL%20Me%20⚡-00FFFF?style=for-the-badge&logo=gmail&logoColor=red&labelColor=141414" alt="Email"/>
   </a>
 </p>
 
