@@ -34,6 +34,14 @@
 
 ---
 
+### 🐍 Code Genome
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/icepage/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFFF,100:8A2BE2&section=footer" />
 </p>
