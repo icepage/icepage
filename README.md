@@ -37,7 +37,7 @@
 ### 🐍 Code Genome
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/icepage/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/icepage/snk/output/github-contribution-grid-snake-ocean.svg" alt="snake animation" />
 </p>
 
 ---
