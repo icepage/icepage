@@ -30,6 +30,9 @@
   <a href="mailto:zhuoyanzhe1@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL%20Me%20⚡-00FFFF?style=for-the-badge&logo=gmail&logoColor=red&labelColor=141414" alt="Email"/>
   </a>
+  <a href="https://www.xiaohongshu.com/user/profile/67891271000000000e01c658" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white&labelColor=141414">
+  </a>
 </p>
 
 ---
