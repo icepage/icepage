@@ -27,7 +27,7 @@
 ### 🛰️ Reach Me
 
 <p align="left">
-    <a href="https://www.icepage.top/github/wechat/index.html" target="_blank">
+    <a href="https://www.icepage.top/wechat/index.html" target="_blank">
     <img src="https://img.shields.io/badge/关注公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=141414">
   </a>
   <a href="https://www.xiaohongshu.com/user/profile/67891271000000000e01c658" target="_blank">
